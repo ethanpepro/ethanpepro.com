@@ -1,9 +1,0 @@
-Origin: brenbreak
-Label: brenbreak
-Suite: stable
-Version: 0.1
-Codename: brenbreak
-Architectures: watchos-arm
-Components: main
-Description: Brenbreak Repo
-MD5Sum:
